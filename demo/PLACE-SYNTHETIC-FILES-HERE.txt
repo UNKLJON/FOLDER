@@ -1,0 +1,8 @@
+SYNTHETIC TEST DATA - NOT REAL PII
+
+Place approved synthetic test files in this folder.
+
+Recommended workbook filename:
+TEST-SSN-SYNTHETIC.xlsx
+
+Review every file before enabling public GitHub upload.
